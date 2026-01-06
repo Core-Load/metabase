@@ -8,4 +8,4 @@
 
 ## URL
 2026.01.08 까지 유효\
-http://3.34.233.19:3000/dashboard/3-core-load
+http://3.34.233.19:3000/public/dashboard/da9d9a2e-86ec-44cc-8097-ac77fb188c37
